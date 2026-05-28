@@ -1,0 +1,7 @@
+El uso de la terminal para organizar archivos y navegar es importante para tener una autonomía
+dejando de lado la necesidad de interfaces y ayudas visuales pasando a reconocer su trabajo   
+facilmente. Nos permite tambien automatizar el proceso por medio de scripts para ordenar muchos
+archivos rápidamente.
+En conclusión, la terminal es el lenguaje nativo de la computación. Usarla para organizar un 
+proyecto es dejar de ser un simple espectador que interactúa con botones, para convertirse en
+el verdadero director de la infraestructura de su código.
