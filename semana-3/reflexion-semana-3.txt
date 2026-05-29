@@ -1,0 +1,8 @@
+El uso de herramientas de control de versiones como Git es fundamental en el desarrollo de software porque actúa como el sistema 
+nervioso del proyecto. Mantener un registro de cambios detallado garantiza que ninguna línea de código se pierda y permite que 
+múltiples desarrolladores trabajen simultáneamente sin destruir las aportaciones de los demás. Esta bitácora histórica ofrece 
+una red de seguridad invaluable, ya que facilita regresar a una versión estable anterior si un error crítico interrumpe la 
+producción. Además, promueve la transparencia y la responsabilidad en el equipo, permitiendo identificar con precisión quién 
+realizó cada modificación, cuándo se hizo y cuál era el propósito de ese cambio. A nivel de gestión, este historial documenta 
+la evolución lógica del software, simplifica la auditoría de código, optimiza la integración de nuevas funciones y eleva los 
+estándares de calidad del producto final.
