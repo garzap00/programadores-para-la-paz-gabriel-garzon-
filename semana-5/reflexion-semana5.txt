@@ -1,0 +1,10 @@
+Las APIs son herramientas clave para que las comunidades compartan información de forma 
+ordenada. Permiten centralizar los datos en un solo lugar, evitando que los reportes se 
+pierdan en chats. A través de un canal único, los vecinos pueden enviar alertas 
+categorizadas con un formato fijo. Esto facilita que los administradores organicen las 
+incidencias por prioridad o por zonas. Además, las APIs permiten conectar la aplicación 
+comunitaria con sistemas externos de mapas. Así, se pueden visualizar las alertas en 
+tiempo real y coordinar soluciones más rápido. También automatizan notificaciones masivas
+para avisar a todos los usuarios ante una emergencia. La seguridad mejora, ya que se puede
+validar quién envía el reporte antes de publicarlo. En conclusión, estructuran la 
+comunicación libre para transformarla en soluciones comunitarias eficientes.
