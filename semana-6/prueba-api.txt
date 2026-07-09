@@ -1,0 +1,12 @@
+Respuesta devuelta por el servidor:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Explicación:
+- El servidor recibió correctamente los datos JSON gracias a `app.use(express.json())`.
+- Extrajo `nombre` y `mensaje` desde `req.body`.
+- Devolvió una respuesta JSON confirmando la recepción de los datos.

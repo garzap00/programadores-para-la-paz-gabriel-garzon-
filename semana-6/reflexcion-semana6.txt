@@ -1,0 +1,11 @@
+
+Es importante que las plataformas tecnológicas puedan recibir reportes o información enviada por los ciudadanos de forma
+estructurada porque esto facilita el procesamiento automático de los datos. Cuando la información llega en formato JSON,
+el servidor puede extraer fácilmente campos como tipo, descripción, ubicación o nombre, permitiendo una respuesta más 
+rápida y organizada.
+Esta estructura mejora la eficiencia de las administraciones públicas o empresas, ya que reduce el tiempo de revisión 
+manual y minimiza errores. Además, permite clasificar automáticamente las incidencias (iluminación, baches, seguridad, 
+etc.), priorizarlas según su urgencia y generar estadísticas útiles para la toma de decisiones.
+Finalmente, una plataforma que recibe datos estructurados fomenta la participación ciudadana, ya que ofrece a las 
+personas una forma sencilla y confiable de reportar problemas, contribuyendo a construir ciudades más inteligentes, 
+seguras y receptivas a las necesidades reales de sus habitantes.

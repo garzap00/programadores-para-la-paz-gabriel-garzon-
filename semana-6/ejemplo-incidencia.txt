@@ -1,0 +1,4 @@
+{
+  "tipo": "Bache en la vía",
+  "descripcion": "Hay un bache grande en la calle principal frente al número 45. Representa un peligro para los vehículos y peatones."
+}
