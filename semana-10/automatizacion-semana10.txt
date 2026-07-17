@@ -1,0 +1,13 @@
+Diseño de Automatización con n8n y Telegram:
+
+1. ¿Qué evento activa el flujo?:
+El evento desencadenante (Trigger) ocurre cuando un ciudadano registra exitosamente una nueva incidencia en la base de datos de la plataforma.
+
+2. ¿Qué mensaje se enviaría a Telegram?:
+"¡Atención equipo de veeduría! Se ha registrado un nuevo reporte en el sistema. Por favor, ingresen a la plataforma de administración para revisar los detalles y validar el caso."
+
+3. ¿Qué información NO debe enviarse por seguridad?:
+Para resguardar la privacidad y evitar filtraciones, bajo ninguna circunstancia se enviarán:
+- Nombres completos o identificaciones de la persona que reporta.
+- Direcciones exactas residenciales o números de teléfono.
+- Datos sensibles, contraseñas, tokens de API o parámetros internos del servidor.

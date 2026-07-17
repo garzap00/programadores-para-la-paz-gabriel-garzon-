@@ -1,0 +1,14 @@
+Planificación de la Iteración:
+
+1. ¿Qué 2 tareas del backlog harías primero?
+- Tarea 1: Registrar una incidencia de forma pública.
+- Tarea 2: Consultar la lista de reportes existentes para hacer seguimiento.
+
+2. ¿Por qué son las más importantes?
+Porque constituyen el núcleo de valor y la funcionalidad básica de la plataforma. Sin la capacidad de registrar reportes y visualizarlos para su seguimiento, no existe una base de datos o insumo sobre el cual automatizar alertas o coordinar acciones posteriores.
+
+3. Definición de "Terminado" (Definition of Done - DoD):
+Para que consideremos que una tarea está completamente finalizada, debe cumplir con los siguientes 3 criterios:
+- Funcionalidad: El código correspondiente funciona correctamente en el entorno de desarrollo y cumple con la expectativa del usuario.
+- Pruebas y Validación: La funcionalidad ha sido probada de extremo a extremo sin generar errores en la consola del servidor.
+- Control de Versiones: El código limpio y refactorizado fue guardado y registrado con éxito en el repositorio de Git.
