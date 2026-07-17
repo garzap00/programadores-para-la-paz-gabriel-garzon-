@@ -1,0 +1,9 @@
+La implementación de plataformas tecnológicas para el registro y consulta de reportes transforma
+el control ciudadano de una queja informal a un proceso estructurado, transparente y auditable. 
+Al centralizar las incidencias en un sistema digital, la comunidad adquiere una base de datos real 
+y organizada que evita la pérdida de información y facilita la identificación de patrones o 
+problemáticas recurrentes en el territorio. Asimismo, la posibilidad de consultar de forma pública 
+estos reportes democratiza el acceso a la información, reduce la especulación y empodera colectivamente 
+a los ciudadanos al permitirles verificar el estado de sus solicitudes. Finalmente, este canal digital 
+actúa como un puente técnico y formal que optimiza la comunicación con las entidades públicas, obligando 
+a una rendición de cuentas basada en evidencias concretas y no en simples rumores.

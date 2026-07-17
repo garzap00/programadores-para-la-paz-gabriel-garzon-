@@ -1,0 +1,11 @@
+Al enviar la petición GET a http://localhost:3000/reportes, el servidor responde de manera exitosa (HTTP 200 OK) devolviendo un array en formato JSON con la lista de todos los reportes almacenados en el sistema. 
+
+Dado que previamente registramos un reporte mediante la ruta POST, la respuesta muestra ese único elemento con su ID asignado automáticamente por el backend:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
