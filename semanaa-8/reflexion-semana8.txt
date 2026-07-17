@@ -1,0 +1,10 @@
+La seguridad digital en plataformas comunitarias y participativas es indispensable porque resguarda 
+la confianza, que es el motor de cualquier proceso colectivo. Cuando una comunidad utiliza una 
+herramienta tecnológica para organizarse, comparte información valiosa y, a menudo, opiniones o datos 
+sensibles. Si la plataforma carece de medidas básicas de protección, se expone a ataques cibernéticos, 
+robo de identidad o campañas de desinformación que pueden vulnerar la privacidad de sus miembros y 
+fracturar la cohesión social. Por lo tanto, implementar buenas prácticas de seguridad no es solo una 
+tarea técnica aislada para los desarrolladores o administradores de sistemas; representa una responsabilidad 
+ética de cuidado mutuo. Proteger la infraestructura digital garantiza que los ciudadanos y participantes
+cuenten con un entorno democrático, seguro y confiable donde puedan expresarse y colaborar libremente sin 
+temor a represalias o filtraciones malintencionadas.

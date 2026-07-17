@@ -1,0 +1,12 @@
+1. Cifrado y conexiones seguras: Implementar certificados SSL/TLS (HTTPS) para que toda la 
+información que viaja entre los usuarios y el servidor esté completamente encriptada.
+2. Principio de menor privilegio: Limitar los accesos administrativos del servidor, permitiendo 
+que solo las personas autorizadas y con roles específicos puedan modificar bases de datos o 
+configuraciones críticas.
+3. Gestión segura de credenciales: Exigir el uso de contraseñas robustas a los colaboradores, 
+implementar autenticación de dos factores (2FA) y nunca almacenar claves en texto plano.
+4. Anonimización y protección de datos personales: No exponer ni almacenar de manera insegura 
+datos sensibles o privados de los miembros de la comunidad para evitar filtraciones y acoso.
+5. Registros de actividad (Logs) y auditorías: Monitorear y registrar de manera constante los 
+accesos y actividades en el sistema para detectar comportamientos inusuales, intentos de 
+intrusión o fallos a tiempo.

@@ -1,0 +1,17 @@
+Información del Sistema (Comandos de Linux):
+
+1. Comando 'uname -a':
+   - ¿Qué muestra?: Ofrece una descripción detallada del sistema operativo y del hardware. Incluye el nombre 
+   del kernel de Linux, el nombre del host en la red (node name), la versión y fecha de compilación del kernel
+    la arquitectura de la máquina (por ejemplo, x86_64 o aarch64) y el sistema operativo general.
+
+2. Comando 'whoami':
+   - ¿Qué muestra?: Imprime de forma simple y directa el nombre del usuario con el que se tiene la sesión activa 
+   actualmente en la terminal.
+
+¿Por qué es útil conocer esta información al administrar un servidor?
+Conocer estos datos es fundamental por razones de compatibilidad y seguridad. Al saber la arquitectura y versión 
+exacta del kernel con 'uname -a', el administrador puede descargar e instalar los paquetes correctos de software
+o aplicar parches de seguridad específicos. Por otro lado, verificar el usuario con 'whoami' previene errores 
+catastróficos en el servidor (como borrar archivos críticos del sistema por accidente si se está operando con 
+permisos de superusuario o 'root' sin darse cuenta).
