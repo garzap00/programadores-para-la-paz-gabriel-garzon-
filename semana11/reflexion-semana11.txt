@@ -1,0 +1,10 @@
+Una plataforma tecnológica que promueve la participación ciudadana debe contar con una base de datos, 
+autenticación de usuarios y protección de la información por razones éticas, técnicas y de confianza. 
+La base de datos permite estructurar, almacenar y consultar de manera organizada y permanente las 
+propuestas comunitarias y los apoyos recibidos, haciendo viable el seguimiento real de las iniciativas. 
+Por otra parte, la autenticación de usuarios es vital para garantizar la transparencia de los procesos 
+y evitar la manipulación de resultados, limitando los roles administrativos únicamente a personas 
+autorizadas. Finalmente, la protección de información sensible es un deber fundamental para mitigar 
+riesgos de seguridad digital que vulneren la privacidad de los participantes. Sin estas tres capas de 
+infraestructura, las plataformas comunitarias perderían fiabilidad, expondrían a la ciudadanía a filtraciones 
+malintencionadas y desincentivarían la colaboración democrática en el espacio digital.

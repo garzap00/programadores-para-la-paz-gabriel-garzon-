@@ -1,0 +1,20 @@
+Modelo de Datos - Plataforma Comunitaria de Causas:
+
+Entidad: Causa
+Campos principales:
+- id (Número único / Clave primaria)
+- titulo (Texto corto)
+- descripcion (Texto largo)
+- fecha_creacion (Fecha)
+- categoria (Texto corto)
+Propósito:
+Almacenar de forma estructurada las causas, iniciativas o necesidades vecinales propuestas por la comunidad para que sean visibles públicamente en la plataforma.
+
+Entidad: Apoyo
+Campos principales:
+- id (Número único / Clave primaria)
+- causa_id (Número / Clave foránea que conecta con la Causa)
+- usuario_anonimo_id (Texto único / Hash de sesión)
+- fecha_apoyo (Fecha y hora)
+Propósito:
+Registrar de forma segura cada voto de respaldo que recibe una causa. Permite llevar un contador preciso de apoyos sin necesidad de almacenar o exponer información personal identificable del participante.

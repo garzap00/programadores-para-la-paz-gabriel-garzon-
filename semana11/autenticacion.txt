@@ -1,0 +1,7 @@
+Explicación de Autenticación y Seguridad:
+
+El login es el mecanismo que permite a una aplicación identificar y validar la identidad de un usuario (generalmente mediante credenciales como usuario y contraseña) antes de otorgarle acceso a su cuenta o a ciertas funcionalidades.
+
+Algunas rutas de la plataforma deben estar protegidas porque contienen datos personales, registros administrativos internos o funciones críticas (como eliminar causas o modificar configuraciones) que no deben estar disponibles para visitantes anónimos o no autorizados.
+
+Para resguardar la privacidad de la comunidad, bajo ninguna circunstancia deben exponerse públicamente datos sensibles como: contraseñas cifradas, tokens de acceso, direcciones de correo electrónico, números telefónicos, documentos de identidad ni claves de API en las respuestas de la interfaz o en rutas de acceso público.
