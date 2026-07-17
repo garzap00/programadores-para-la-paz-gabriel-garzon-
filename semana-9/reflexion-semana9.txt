@@ -1,0 +1,9 @@
+La estabilidad y seguridad de un servidor son fundamentales en plataformas tecnológicas de carácter 
+comunitario porque de ellas depende la confianza depositada por los usuarios. Cuando una comunidad 
+decide autogestionar su infraestructura o usar herramientas colectivas para coordinarse, comparte 
+información que a menudo puede ser privada o sensible. Un servidor inestable, que se apaga o sufre 
+caídas constantes, entorpece los canales de comunicación y desmotiva la participación ciudadana. 
+Por otro lado, la falta de seguridad expone los datos de los usuarios ante posibles filtraciones, 
+hackeos o manipulaciones de información. Mantener un servidor robusto, que use logs para monitorear 
+errores y prevenga accesos no autorizados, garantiza un espacio seguro, democrático y confiable donde 
+la comunidad puede interactuar sin temor a perder sus datos o a que su servicio principal sea interrumpido.
