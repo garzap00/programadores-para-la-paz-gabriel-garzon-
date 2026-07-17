@@ -1,0 +1,17 @@
+Diseño del Modelo de Datos para "Petición en 3 Clics":
+
+Entidad: Causa
+Atributos:
+- id (Número único / Clave Primaria)
+- titulo (Texto corto): Nombre o cabecera de la problemática identificada.
+- descripcion (Texto largo): Detalle explicativo de la petición y sus motivos.
+- fecha (Fecha): Registro de cuándo fue creada la propuesta.
+Propósito: Almacenar los datos principales de las causas de forma organizada para que puedan consultarse, listarse en la interfaz y plasmarse en el encabezado del documento final.
+
+Entidad: Apoyo
+Atributos:
+- id (Número único / Clave Primaria)
+- causa_id (Número / Clave Foránea que vincula a la Causa correspondiente)
+- nombre (Texto): Nombre del ciudadano o identificador que respalda la causa.
+- fecha (Fecha y hora): Registro de cuándo se realizó la acción de apoyo.
+Propósito: Registrar de manera individualizada cada voto de respaldo para llevar un conteo matemático exacto, garantizando la consistencia de los datos y sirviendo como anexo cuantitativo en la petición formal.

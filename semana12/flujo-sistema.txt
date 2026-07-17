@@ -1,0 +1,7 @@
+Flujo del Sistema "Petición en 3 Clics":
+
+1. Creación de la causa: Un ciudadano accede a la plataforma y crea una causa comunitaria (por ejemplo, "Repavimentación de la Calle Principal") completando un formulario con título y descripción.
+2. Registro en Base de Datos: La causa se guarda de forma segura y estructurada en la base de datos y se publica automáticamente en la cartelera principal de la aplicación.
+3. Registro de Apoyos: Otros miembros de la comunidad ingresan al sitio, leen la propuesta y hacen clic en el botón "Apoyar Causa".
+4. Acumulación y Conteo: El servidor recibe la interacción, incrementa de manera segura el contador de apoyos en la base de datos y lo actualiza en tiempo real en la pantalla.
+5. Generación del Documento PDF: Una vez alcanzado el objetivo o a solicitud del creador, el sistema extrae la información de la causa junto con el total de apoyos y genera automáticamente un documento PDF formal listo para ser descargado o presentado ante las autoridades competentes.

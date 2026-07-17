@@ -1,0 +1,13 @@
+Diseño de Automatización con n8n y Telegram:
+
+1. Evento que activa la automatización:
+El flujo de automatización en n8n se activa mediante un webhook ("Trigger") cada vez que se registra una nueva causa comunitaria en la plataforma.
+
+2. Mensaje enviado al canal o grupo de Telegram:
+"📢 ¡Nueva Causa Creada! Se ha publicado la iniciativa titulada: '{titulo_de_la_causa}'. Te invitamos a ingresar a la plataforma, conocer los detalles de la propuesta y sumarte con tu apoyo para hacerla realidad."
+
+3. Información que NO debe enviarse por seguridad:
+Para salvaguardar la privacidad de la comunidad, bajo ninguna circunstancia se enviarán por este canal:
+- Datos personales identificables (cédulas, números de teléfono, direcciones físicas de los creadores o apoyos).
+- Direcciones de correo electrónico.
+- Comentarios de carácter extremadamente sensible o tokens/credenciales de accesos técnicos del servidor.
